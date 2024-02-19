@@ -195,4 +195,4 @@ Mutta tottakai se ei ole valmis, jos se ei sinun mielestäsi ole. Luovuus on sin
 Tässä on tutoriaali, jota käytin tähän: https://github.com/JukkaPekka99/tutoriaali
 
 
-(Käytettiin Chat gpt textin korjaukseen)
+(Käytettiin ChatGPT:tä tekstin korjaamiseen)
