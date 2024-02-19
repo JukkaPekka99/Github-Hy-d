@@ -89,5 +89,8 @@ Kun toveri on hyväksynyt pyynnön nyt voitte tehdä projektia yhdessä!
 
 
 
+Eli nyt ymmärrät miten githubia käytetään.
 
+Nyt katsotaan miten päivitetään projektia.
 
+Oletamme että olet joten kuten lisännyt asioita Unity projektiin
