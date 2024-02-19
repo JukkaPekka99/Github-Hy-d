@@ -115,5 +115,6 @@ Mutta tottakai se ei ole valmis, jos se ei sinun mielestäsi ole. Luovuus on sin
 
 Tässä on tutoriaali, jota käytin tähän: https://github.com/JukkaPekka99/tutoriaali
 
+Elikkäs näin olen ja tulen käyttämään GitHubia.
 
 (Käytettiin ChatGPT:tä tekstin korjaamiseen)
