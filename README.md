@@ -29,3 +29,14 @@ Nyt sinulla on github sivu jossa voit kirjoittaa ReadMeh:in vaikka infoa pelaaja
 Seuraavaksi asennetaan github desktop app.
 https://desktop.github.com/
 Asenna appi painamalla linkkiä.
+
+Nyt kun appi on asennettu kirjaudu sisään käyttämällä samoja tunnuksia millä kirjauduit githubiin verkossa.
+
+Seuraavaksi kun olet kirjautunut kloonataan sinun github projektisi verkosta appiin
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/dd218c4c-68a6-48a2-82ce-e8bd51a4902d)
+
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/3f5b6795-59c7-42a2-b09b-7134ae3333ef)
+
+
