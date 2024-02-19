@@ -117,6 +117,6 @@ Muista pistää "Tag kohtaan" jokin versio numero tai jotain joka kertoo mikä v
 
 ![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/f50ef256-0fea-4a59-8dca-34d7aadb08c1)
 
-Suosittelen pistämällä V.1.0.0
+Suosittelen pistämällä V1.0.0
 
 
