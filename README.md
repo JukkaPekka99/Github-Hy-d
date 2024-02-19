@@ -9,6 +9,8 @@ Eli githubilla voi jakaa projektia ilmaiseksi netissä sinun ryhmän kanssa jott
 
 Mutta miten sitä käytetään?
 
+Tässä on Unitylle tarkoitettu github tutoriaali:
+
 Ensinmäiseksi sinä luot tilin tai kijaudut sisään.
 
 Nyt kun olet kirjautunut luo uusi repository.
