@@ -23,3 +23,9 @@ Nyt annat projektille nimi ja valitse joko projektisi on julkinen tai yksityinen
 
 Muista valita  Unity ".gitignore" kohtaan.
 
+
+Nyt sinulla on github sivu jossa voit kirjoittaa ReadMeh:in vaikka infoa pelaajalle tai viestiä sinun työtovereille.
+
+Seuraavaksi asennetaan github desktop app.
+https://desktop.github.com/
+Asenna appi painamalla linkkiä.
