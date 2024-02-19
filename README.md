@@ -93,4 +93,10 @@ Eli nyt ymmärrät miten githubia käytetään.
 
 Nyt katsotaan miten päivitetään projektia.
 
-Oletamme että olet joten kuten lisännyt asioita Unity projektiin
+Oletamme että olet joten kuten lisännyt asioita Unity projektiin tai poistanut.
+
+Avaamme taas github desktop apin ja klikkaamme uudelleen "Commit to main" ja "Push to origin"
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/0c471fd2-5a73-40be-98e6-67338981c3ac)
+
+Ja näin voit päivittää githubia ja projektia samaan aikaan!
