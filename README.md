@@ -58,6 +58,36 @@ Nyt kun olet kopioinut tiedostot mennään takaisin githubin desktop appiin mene
 
 ![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/bc8dcda1-6821-4083-bb59-32a6afb38229)
 
-ja liität kopioudut tiedostot.
+Ja liität kopioudut tiedostot.
+
+Nyt sinulla näkyy github apissa kaikki Unity assetit jota voit modifoida ja nähdä kaikki muutokset.
+
+Seuraavaksi tallennamme Unity projektimme github verkkoon.
+Eli menemme appin ja klikkaamme "Commit to main"
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/c64b44bb-bebb-41c6-b1f2-073f8091895d)
+
+Muista antaa summary eli nimi jotta voit klikkaa "Commit to summary"
+
+Sitten klikkaamme "Push to origin"
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/2a83ebe1-0a0c-4a71-bf38-6f132e1efe59)
+
+Nyt kun menemme takaisin github sivuun ja ladataan sivu uudelleen näemme että tiedostot ovat myös täällä!
+
+Nyt sinä tiedät miten githubia käytetään.
+
+Mutta miten minä lisään työ toverini mukaan?
+
+Jotta voit lisätä tovereita mukaan modifoimaan projektiasi klikataan "Settings">"collaborators"
+sitten klikkaat "Add people"
+Ja nyt joko pistät hänen sähköpostin tai mikälie hänen nimi on.
+
+Nyt kun olet lähettänyt pyynnön toverille odota kunnes hän on hyväksynyt pyynnön joko sähpöpostin tai githubin notifications sivussa.
+
+Kun toveri on hyväksynyt pyynnön nyt voitte tehdä projektia yhdessä!
+
+
+
 
 
