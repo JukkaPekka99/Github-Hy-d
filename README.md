@@ -12,7 +12,12 @@ Mutta miten sitä käytetään?
 Ensinmäiseksi sinä luot tilin tai kijaudut sisään.
 
 Nyt kun olet kirjautunut luo uusi repository.
+
 ![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/eaee20a0-e2a8-4fd3-87e9-43ea488193b9)
+
 Nyt annat projektille nimi ja valitse joko projektisi on julkinen tai yksityinen.
+
 ![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/afb0baa0-45b4-4751-b5f3-fc5da561ec72)
+
 Muista valita  Unity ".gitignore" kohtaan.
+
