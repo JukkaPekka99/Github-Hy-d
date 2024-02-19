@@ -100,3 +100,23 @@ Avaamme taas github desktop apin ja klikkaamme uudelleen "Commit to main" ja "Pu
 ![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/0c471fd2-5a73-40be-98e6-67338981c3ac)
 
 Ja näin voit päivittää githubia ja projektia samaan aikaan!
+
+
+Nyt muista että tämä on Unityä varten tehty ohje mutta varmasti muutkin muodot ovat samankaltaisia jos katsot jonkun muun ohjee eri aiheeseen.
+
+
+Miten minä julkaisen teokseni?
+
+Jos haluat julkaista projektin päivityksen tai ylipäätäänsä julkaista projektin mene githubi sivulle ja klikkaa "Create new release"
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/198b0b4e-4dcb-4f91-8569-f47a6c92e24a)
+
+Nyt voit antaa nimen projektille ja pistää kuvaus ja kaikkea kivaa.
+
+Muista pistää "Tag kohtaan" jokin versio numero tai jotain joka kertoo mikä versio se on.
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/f50ef256-0fea-4a59-8dca-34d7aadb08c1)
+
+Suosittelen pistämällä V.1.0.0
+
+
