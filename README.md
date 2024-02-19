@@ -40,3 +40,10 @@ Seuraavaksi kun olet kirjautunut kloonataan sinun github projektisi verkosta app
 ![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/3f5b6795-59c7-42a2-b09b-7134ae3333ef)
 
 
+Nyt sinulla on github projekti mutta nyt me tarvitaan Unity projektimme githubiin.
+
+Olettamme että sinulla on jo Unityssä valmiina projekti 
+
+Painamme oikeaa hiiren näppäintä "assets" kohtaa ja klikataan "Show in Explorer"
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/9bd2d968-efd4-4dab-8542-40265c45144e)
