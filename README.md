@@ -47,3 +47,17 @@ Olettamme että sinulla on jo Unityssä valmiina projekti
 Painamme oikeaa hiiren näppäintä "assets" kohtaa ja klikataan "Show in Explorer"
 
 ![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/9bd2d968-efd4-4dab-8542-40265c45144e)
+
+Nyt kun olet Resurssien hallinnassa valitse kaikki tiedostoista ja kopioi ne.
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/335ac08d-3e04-497c-91c1-9f54162c871b)
+
+Nyt kun olet kopioinut tiedostot mennään takaisin githubin desktop appiin menemme liittämään kopioudut tiedostot sinun github tiedostoon.
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/b53d255a-1833-4877-adeb-e88b2431fe09)
+
+![image](https://github.com/JukkaPekka99/Github-hy-dytys/assets/160464527/bc8dcda1-6821-4083-bb59-32a6afb38229)
+
+ja liität kopioudut tiedostot.
+
+
