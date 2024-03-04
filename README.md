@@ -113,7 +113,7 @@ Ja TADAA! Sinulla on nyt valmis GitHub-sivu!
 
 Mutta tottakai se ei ole valmis, jos se ei sinun mielestäsi ole. Luovuus on sinun!
 
-Tässä on tutoriaali, jota käytin tähän: https://github.com/JukkaPekka99/tutoriaali
+Tässä oli esimerkki Git, jota käytin tähän: https://github.com/JukkaPekka99/tutoriaali
 
 Elikkäs näin olen ja tulen käyttämään GitHubia.
 
